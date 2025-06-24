@@ -14,7 +14,7 @@ This project analyzes student satisfaction survey data for college events using 
 - pandas
 - seaborn, matplotlib, plotly
 - wordcloud
-- Python (Jupyter Notebook)
+- Python(Jupyter Notebook)
 
 ## 📊 Key Insights
 - Overall student satisfaction is generally high
